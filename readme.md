@@ -3,8 +3,6 @@
 You must have created a [JOSTPAY Account](https://jostpay.com/) before using this plugin.
 Please note that the this payment modules works with Naira (NGN) currency
 
-====================================================
-JostPay Online Payment Module For WHMCS Billing System
 ========================================================================
 [ CONTENTS ]
 ========================================================================
