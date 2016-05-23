@@ -4,7 +4,7 @@ You must have created a [JOSTPAY Account](https://jostpay.com/) before using thi
 Please note that the this payment modules works with Naira (NGN) currency
 
 ========================================================================
-[ CONTENTS ]
+CONTENTS
 ========================================================================
 
 1. Description
@@ -13,7 +13,7 @@ Please note that the this payment modules works with Naira (NGN) currency
 4. Configure the module
 
 ========================================================================
-[ DESCRIPTION ]
+DESCRIPTION
 ========================================================================
 This is a payment module developed to work with WHMCS
 for the JostPay (jostpay.com) online payment system. With 
@@ -21,7 +21,7 @@ this, payments can be made on your site using JostPay.
 
 
 ========================================================================
-[ SERVER REQUIREMENTS ]
+SERVER REQUIREMENTS
 ========================================================================
 1. PHP 5.x or later (with the function file_get_contents() enabled
 2. Curl Support (with SSL)
@@ -32,7 +32,7 @@ the minimum requirements needed. Ensure you have the right PHP version.
 
 
 ========================================================================
-[ NEW INSTALLATION INSTRUCTIONS ]
+NEW INSTALLATION INSTRUCTIONS
 ========================================================================
 
 1. Upload "whmcs/modules/gateways/jostpay.php" to the corresponding location
@@ -70,7 +70,7 @@ the minimum requirements needed. Ensure you have the right PHP version.
 
 
 ========================================================================
-[ CONFIGURE THE MODULE ]
+CONFIGURE THE MODULE
 ========================================================================
 
 1. Log into your WHMCS Admin area.
